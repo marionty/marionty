@@ -1,6 +1,6 @@
 ### Hi there 👋
+I am looking for a web and mobile web developer internship<!--
 
-<!--
 **marionty/marionty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
